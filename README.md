@@ -56,3 +56,8 @@ This is a Windows-only app. Some checks depend on Windows permissions, device ma
 
 The executable is not code-signed. Windows SmartScreen or antivirus tools may warn about unsigned apps, especially when they collect system information. Review the source before running in a managed environment.
 
+## Related Rice2K projects
+
+Find related Windows IT support utilities for diagnosing computer hardware, operating-system health, and network issues.
+
+[RescueDesk USB](https://github.com/rice2k/r2k-rescuedesk-usb) · [WiFi Vault Pro](https://github.com/rice2k/WiFi-Vault-Pro) · [Explore all Windows tools](https://rice2k.github.io/rice2k-startdeck/projects/?category=Windows%20%26%20IT)
